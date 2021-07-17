@@ -1,0 +1,516 @@
+{
+    
+
+  "erreur":[
+    
+{
+        "8013030":{
+        "erreur": "8013030",
+        "solution": "Erreur système - échec de mise à jour."
+}
+},
+
+      
+{
+        "80010001":{
+        "erreur": "80010001",
+        "solution": "Erreur majeure, lecture du jeu impossible (disque détérioré)."
+}
+},
+
+{
+    "80010009":{
+    "erreur": "80010009",
+    "solution": "Erreur de synchronisation d'un matériel 'bluetooth'."
+}
+},
+
+{
+  "80010014":{
+  "erreur": "80010014",
+  "solution": "Échec de téléchargement sur le psn (achat d'un jeu), réessayer le téléchargement."
+}
+},
+
+{
+  "80010017":{
+  "erreur": "80010017",
+  "solution": "'Jeu blu-ray' illisible."
+}
+},
+
+{
+  "80010036":{
+  "erreur": "80010036",
+  "solution": "Un problème relatif au disque dur de votre système PS3 est survenu. Passez en mode sans échec et sélectionnez [Restaurer le système de fichiers].Si le problème persiste, reformatez le disque dur de votre PS3. Remarque : cela supprimera toutes les données de votre disque dur."
+}
+},
+
+{
+  "80010510":{
+  "erreur": "80010510",
+  "solution": "Jeu installé sur le disque dur impossible à lancer."
+}
+},
+
+{
+  "80010514":{
+  "erreur": "80010514",
+  "solution": "Erreur de disque dur, relancer la ps3."
+}
+},
+
+{
+  "80010516":{
+  "erreur": "80010516",
+  "solution": "Erreur de lecture d'un jeu ps1, éjecter le jeu et réessayer."
+}
+},
+
+{
+  "8002291A":{
+  "erreur": "8002291A",
+  "solution": "Votre système PS3 ne parvient pas à lire un Blu-ray Disc. Éjectez le disque et réinsérez-le, après vous être assuré qu'il est propre et exempt de toute rayure. Si le problème persiste, essayez de charger trois autres disques différents minimum. Si aucune erreur ne se produit, le premier disque est peut-être endommagé et il vous faudra éventuellement le remplacer."
+}
+},
+
+{
+  "710102":{
+  "erreur": "710102",
+  "solution": "Erreur DNS, le serveur DNS n'est plus valable."
+}
+},
+
+{
+  "80023017":{
+  "erreur": "80023017",
+  "solution": "Playstation Store est en cours de maintenance."
+}
+},
+
+{
+  "8002315A":{
+  "erreur": "8002315A",
+  "solution": "Vous avez atteint le nombre maximum de comptes Sony Entertainment Network pouvant être associés à cette carte bancaire. Le PlayStation Network ne permet d'associer une carte bancaire qu'à un maximum de cinq comptes."
+}
+},
+
+{
+  "80029020":{
+  "erreur": "80029020",
+  "solution": "Le délai de connexion à Internet de votre système PS3 a expiré. Si vous utilisez une connexion sans fil, le système PS3 n'a pas pu détecter le point d'accès."
+}
+},
+
+{
+  "80029024":{
+  "erreur": "80029024",
+  "solution": "Obtention d'une adresse IP (Internet Protocol ) impossible."
+}
+},
+
+{
+  "80029513":{
+  "erreur": "80029513",
+  "solution": "Violation de la législation des droits d'auteur, jeu non original."
+}
+},
+
+{
+  "80029564":{
+  "erreur": "80029564",
+  "solution": "Installation d'un jeu téléchargé impossible Vous ne parvenez pas à installer du contenu acheté sur le PlayStation Store. Veuillez supprimer le fichier, puis le télécharger à nouveau."
+}
+},
+
+{
+  "80029945":{
+  "erreur": "80029945",
+  "solution": "Lecture d'un film 'blu-ray' impossible (s'agissant certainement d'une copie)"
+}
+},
+
+{
+  "80030920":{
+  "erreur": "80030920",
+  "solution": "Fichier corrompu."
+}
+},
+
+{
+  "80031150":{
+  "erreur": "80031150",
+  "solution": "Erreur de sauvegarde des paramètres système, possibilité d'un écran bleu restaurer les paramètres par défaut."
+}
+},
+
+{
+  "80031601":{
+  "erreur": "80031601",
+  "solution": "Erreur durant la création d'un compte."
+}
+},
+
+{
+  "8003051E":{
+  "erreur": "8003051E",
+  "solution": "Sauvegarde d'une partie impossible."
+}
+},
+
+{
+  "80130182":{
+  "erreur": "80130182",
+  "solution": "Erreur de connexion, conflit d'adresse IP."
+}
+},
+
+{
+  "80130183":{
+  "erreur": "80130183",
+  "solution": "Erreur d'inscription au playstation network, inscription effectuée sur le site PSN via le pc, mais non confirmée sur la PS3 ou non validée par le message électronique de confirmation.(cliquez sur le lien reçu)."
+}
+},
+
+{
+  "80130203":{
+  "erreur": "80130203",
+  "solution": "Ps3 connectée à internet, mais pas au Playstation Network,ouvrir les ports de votre 'box' TCP 80,443,5223 et UDP 3478,3479,3658."
+}
+},
+
+{
+  "8013030":{
+  "erreur": "8013030",
+  "solution": "Erreur systéme la mise à jour à échoué."
+}
+},
+{
+  "80410418":{
+  "erreur": "80410418",
+  "solution": "Erreur de DNS (Domaine Name System)."
+}
+},
+{
+  "80710016":{
+  "erreur": "80710016",
+  "solution": "Playstation Network indisponible."
+}
+},
+{
+  "80710092":{
+  "erreur": "80710092",
+  "solution": "Déconnexion au Playstation Network, cause : perte de connexion (souvent le wifi)."
+}
+},
+{
+  "8001000B":{
+  "erreur": "8001000B",
+  "solution": "Erreur de clé wifi : vérifier le format, WEP ou WAP."
+}
+},
+{
+  "80710101":{
+  "erreur": "80710101",
+  "solution": "Erreur lors de la connexion."
+}
+},
+{
+  "80710102":{
+  "erreur": "80710102",
+  "solution": "Connexion impossible avec la 'box' adresse IP (Internet Protocol) incorrecte."
+}
+},
+{
+  "80710541":{
+  "erreur": "80710541",
+  "solution": "Temps de connexion expiré."
+}
+},
+{
+  "80710723":{
+  "erreur": "80710723",
+  "solution": "Erreur de ports non ouverts."
+}
+},
+{
+  "81019002":{
+  "erreur": "81019002",
+  "solution": "Copie d'une sauvegarde impossible."
+}
+},
+{
+  "8001050D":{
+  "erreur": "8001050D",
+  "solution": "Lancement du jeu impossible (disque sale ou rayé)."
+}
+},
+{
+  "80022A07":{
+  "erreur": "80022A07",
+  "solution": "Erreur chargement des trophées."
+}
+},
+{
+  "80028EA1":{
+  "erreur": "80028EA1",
+  "solution": "Erreur DNS,(Domaine Name System) en essayant de tester la connexion dans Paramètres connexion Internet (connexion sans fil)."
+}
+},
+{
+  "80028EA5":{
+  "erreur": "80028EA5",
+  "solution": "Connexion au Playstation Network impossible."
+}
+},
+{
+  "80028EA6":{
+  "erreur": "80028EA6",
+  "solution": "Erreur de connexion, relancer la ps3 et la box."
+}
+},
+{
+  "80028F10":{
+  "erreur": "80028F10",
+  "solution": "Erreur d'affichage, mettre en automatique les paramètres d'affichage."
+}
+},
+{
+  "80028F17":{
+  "erreur": "80028F17",
+  "solution": "Lecture d'un jeu ps2 impossible, relancer la ps3."
+}
+},
+{
+  "80028F18":{
+  "erreur": "80028F18",
+  "solution": "Lecture d'un jeu ps2 impossible, disque non supporté (console non compatible)."
+}
+},
+{
+  "80029C68":{
+  "erreur": "80029C68",
+  "solution": "Données corrompues d'un fichier (venant d'un support externe)."
+}
+},
+{
+  "8002A10D":{
+  "erreur": "8002A10D",
+  "solution": "Ajout d'un ami impossible."
+}
+},
+{
+  "8002A231":{
+  "erreur": "8002A231",
+  "solution": "Compte suspendu, banni ou supprimé. (PS home)."
+}
+},
+{
+  "8002A203":{
+  "erreur": "8002A203",
+  "solution": "Impossible de se connecter au PSN (playstation network en maintenance)."
+}
+},
+{
+  "8002A401":{
+  "erreur": "8002A401",
+  "solution": "Erreur d'envoi de message avec photo."
+}
+},
+{
+  "8002A4A6":{
+  "erreur": "8002A4A6",
+  "solution": "Chargement d'un jeu pour jouer en ligne impossible."
+}
+},
+{
+  "8002A515":{
+  "erreur": "8002A515",
+  "solution": "Erreur de connexion."
+}
+},
+{
+  "8002A548":{
+  "erreur": "8002A548",
+  "solution": "Connexion wifi instable (perte de connexion)."
+}
+},
+{
+  "8002A705":{
+  "erreur": "8002A705",
+  "solution": "Connexion au serveur impossible (vérifier les ports)."
+}
+},
+{
+  "8002A71A":{
+  "erreur": "8002A71A",
+  "solution": "Erreur de NAT (Network Adress Translation) connexion possible aux serveurs mais impossible de rejoindre ou de créer une partie."
+}
+},
+{
+  "8002AD23":{
+  "erreur": "8002AD23",
+  "solution": "Erreur de connexion."
+}
+},
+{
+  "8002AE21":{
+  "erreur": "8002AE21",
+  "solution": "La démo ou le fichier sont corrompus."
+}
+},
+{
+  "8002B241":{
+  "erreur": "8002B241",
+  "solution": "Connexion audio DVI défaillante."
+}
+},
+{
+  "8002F147":{
+  "erreur": "8002F147",
+  "solution": "Mise à jour du firmware impossible, désactiver UPNP (Universal Plug And Play), Proxy, les réactiver après mise à jour."
+}
+},
+{
+  "8002F994":{
+  "erreur": "8002F994",
+  "solution": "Erreur de mise à jour, Playstation Network bloqué suite à un trop grand nombre de demandes, essayer plus tard."
+}
+},
+{
+  "8002F997":{
+  "erreur": "8002F997",
+  "solution": "Échec de l'installation d'une mise à jour par support externe (fichier corrompu)."
+}
+},
+{
+  "8002F1F0":{
+  "erreur": "8002F1F0",
+  "solution": "Un problème relatif au réseau local sans fil (WLAN) et/ou à la fonctionnalité Bluetooth de votre système PS3 est survenu."
+}
+},
+{
+  "8002F147":{
+  "erreur": "8002F147",
+  "solution": "La mise jour du logiciel système ne peut s'effectuer sur votre système PS3."
+}
+},
+{
+  "8002F149":{
+  "erreur": "8002F149",
+  "solution": "La mise jour du logiciel système ne peut s'effectuer sur votre système PS3."
+}
+},
+{
+  "8002F165":{
+  "erreur": "8002F165",
+  "solution": "La mise jour du logiciel système ne peut s'effectuer sur votre système PS3."
+}
+},
+{
+  "8002F176":{
+  "erreur": "8002F176",
+  "solution": "La mise jour du logiciel système ne peut s'effectuer sur votre système PS3."
+}
+},
+{
+  "8002F310":{
+  "erreur": "8002F310",
+  "solution": "La mise jour du logiciel système ne peut s'effectuer sur votre système PS3."
+}
+},
+{
+  "8002F313":{
+  "erreur": "8002F313",
+  "solution": "La mise jour du logiciel système ne peut s'effectuer sur votre système PS3."
+}
+},
+{
+  "8002F318":{
+  "erreur": "8002F318",
+  "solution": "La mise jour du logiciel système ne peut s'effectuer sur votre système PS3."
+}
+},
+{
+  "8002F22F":{
+  "erreur": "8002F22F",
+  "solution": "Le disque dur de votre PS3 ne fonctionne pas correctement."
+}
+},
+{
+  "8013013D":{
+  "erreur": "8013013D",
+  "solution": "Erreur de connexion, signal du wifi trop faible ou erreur de SSID (Service Set IDentifier)."
+}
+},
+{
+  "8013013E":{
+  "erreur": "8013013E",
+  "solution": "Erreur de clé WEP, vérifier la configuration de la box."
+}
+},
+{
+  "8013030F":{
+  "erreur": "8013030F",
+  "solution": "Erreur SSID (Service Set Identifier), sa diffusion est désactivée."
+}
+},
+{
+  "8013031B":{
+  "erreur": "8013031B",
+  "solution": "Erreur liée aux paramètres wifi. Votre point d'accès ne prend pas en charge le WPA. Vérifiez que les paramètres de sécurité du routeur sont corrects.Assurez-vous que ces paramètres ont bien été appliqués à votre PS3 lorsque vous configurez la connexion Internet."
+}
+},
+{
+  "807101FF":{
+  "erreur": "807101FF",
+  "solution": "Erreur de DNS (Domaine Name System)."
+}
+},
+{
+  "8071040C":{
+  "erreur": "8071040C",
+  "solution": "Erreur de connexion au serveur (recommencer ,rebooter la ps3 )."
+}
+},
+{
+  "8071053D":{
+  "erreur": "8071053D",
+  "solution": "Connexion au Playstation Network impossible (maintenance)."
+}
+},
+{
+  "80710A06":{
+  "erreur": "80710A06",
+  "solution": "Vous rencontrez un problème avec votre système PlayStation 3."
+}
+},
+{
+  "80710B23":{
+  "erreur": "80710B23",
+  "solution": "Playstation Network indisponible."
+}
+},
+{
+  "80710B36":{
+  "erreur": "80710B36",
+  "solution": "Playstation encombrée (réessayer plus tard)."
+}
+},
+{
+  "80710D23":{
+  "erreur": "80710D23",
+  "solution": "PSN bloqué suite à un nombre de demandes trop importante (maps cod black ops first strike.)"
+}
+}
+    
+
+  ]
+    
+
+
+
+
+
+
+  }
